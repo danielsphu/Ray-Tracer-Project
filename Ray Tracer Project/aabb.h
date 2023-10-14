@@ -5,6 +5,7 @@
 
 
 class aabb {
+    // This is the axis-aligned bounding boxes
   public:
     interval x, y, z;
 
